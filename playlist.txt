@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 This is master banch 
 Nothing else is here aprt from these two lines
-=======
 This is oldies 
 There are not only two lines of codes
 But more than that 
 This also contains blah, blah, blah ...
->>>>>>> oldiess
+Somethings are being changed 
